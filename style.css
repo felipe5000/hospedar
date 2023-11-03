@@ -1,7 +1,9 @@
-h1{color: aqua;
-   text-align: center;
+h1{color: rgb(0, 0, 0);
 }
 body{
     background-color: black;
-
+background:url(1600-x-900-dest-principal-sep-campanha-agasalho.webp);
+background-position: top;
+background-size: cover;
+backdrop-filter: blur (12px);
 }
